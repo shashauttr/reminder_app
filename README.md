@@ -1,4 +1,4 @@
-# to_do_app
+# to_do_app (Reminder App)
 
 A new task reminder app on flutter
 
